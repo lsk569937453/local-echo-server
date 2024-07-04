@@ -82,5 +82,5 @@ curl -d "param1=value1&param2=value2" -H "Content-Type: application/x-www-form-u
 ```
 
 ### 注意
-- 本程序支持windows(不包含windows7及以下)，Mac,Linux，可以直接去release下载。
+- 本程序支持windows(不包含windows7及以下)，Mac,Linux，可以直接去[release](https://github.com/lsk569937453/local-echo-server/releases)下载。
 - 本程序目前不支持https,正在开发。
